@@ -1,5 +1,6 @@
 package edu.course.lab1;
 
+
 public class FizzBuzz {
     public static void run (){
         for (int i=1; i <= 500; i++){
