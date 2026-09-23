@@ -1,5 +1,6 @@
 package edu.course.lab1;
 
+
 public class TextTask {
     public static String reverse (String s){
         String result = "";
